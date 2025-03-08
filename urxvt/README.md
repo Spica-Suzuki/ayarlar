@@ -35,9 +35,9 @@ URxvt.iso14755_52: false
 // ancak bazı eski x11 protokollerini kırabilir.
 
 
-
-# Kullanılan Eklenti
+# Ek yüklemeler
 https://github.com/gryf/tabbedalt
+Hack fontunu kullanıyorum, yüklendiğinden emin olmalıyım
 
 # İş bittiğinde şu komutu çalıştır
 xrdb -merge .Xdefault
